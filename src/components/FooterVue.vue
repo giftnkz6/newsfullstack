@@ -5,7 +5,7 @@
             <h5>Shortcuts</h5>
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
-            <li><a href="#about"></a><router-link to="/shop">Articles</router-link></li>
+            <li><a href="#articles">Articles</a></li>
             <!-- <li><a href="#about"></a><router-link to="/contact">Contact</router-link></li> -->
         </ul>
       </div>
