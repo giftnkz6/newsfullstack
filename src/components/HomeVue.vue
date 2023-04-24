@@ -1,5 +1,5 @@
 <template>
-  <div class="container min-vh-100 my-5 p-5">
+  <div class="container my-5 p-5">
     <div id="home" class="home">
       <h1>GET THE TRENDING ARTICLES</h1>
       <img src="https://i.postimg.cc/YSGHFTNW/Screenshot-6-removebg-preview.png" alt="">
@@ -70,6 +70,7 @@
   
     }
     img{
+      margin-top: 4rem;
       margin: auto;
     }
 

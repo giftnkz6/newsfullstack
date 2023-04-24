@@ -1,6 +1,6 @@
 <template>
   <div id="about" class="about">
-    <h1 >ABOUT US</h1>
+    <h1>ABOUT US</h1>
     <div class="container">
       <img src="../assets/output-onlinegiftools.gif" alt="" />
       <!-- <img src="https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif" alt="online news"> -->
@@ -27,9 +27,7 @@ export default {
 </script>
 
 <style scoped>
-/* .about-text{
-        margin-bottom: 4rem;
-    } */
+
 .container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -37,7 +35,7 @@ export default {
 }
 h1 {
   color: #000000;
-  /* margin-bottom: 7rem; */
+  margin-top: 7rem;
 }
 p {
   /* box-shadow: 0 0 10px skyblue; */
