@@ -10,7 +10,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li><a href="#home"></a><router-link to="/">Home</router-link></li>
+                        <li><a href="#home">Home</a></li>
                         <li><a href="#about">About</a></li>
                         <li><a href="#articles">Articles</a></li>
                     </ul>
@@ -28,8 +28,9 @@
   </script>
   <style scoped>
   a {
-    color: black;
+    /* color: black; */
     font-size: larger;
+    color: white;
   }
   li {
     margin: 1.5rem;
@@ -41,9 +42,9 @@
     margin: 0 4rem;
   }
   .navbar {
-    /* z-index: 3; */
-    background-color: light gainsboro;
-    /* position: fixed; */
+    z-index: 3;
+    background-color: lightblue;
+    position: fixed;
     top: 0px;
   }
   .navbar ul {

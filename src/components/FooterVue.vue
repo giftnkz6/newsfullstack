@@ -22,8 +22,8 @@
         <ul>
             <h5>Visit Us</h5>
             <address>
-            Gift Clothing Store<br>
-            310 Imam Haron Road,<br> Lansdowne
+            News Online<br>
+            3000 Mandela Road,<br> Woodstock
             South Africa
             <br>
         </address>
@@ -46,6 +46,7 @@
         display: grid;
         grid-template-columns: .5fr 1fr 1fr 1fr;
         background-color: whitesmoke;
+        margin-top: 3rem;
     }
     ul{
         list-style: none;
