@@ -6,3 +6,4 @@ npm install cors
 npm install dotenv
 npm install newsapi
 node server
+open http://localhost1800
